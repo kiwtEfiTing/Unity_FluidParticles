@@ -1,0 +1,25 @@
+
+/Temp
+/Library
+
+/.vs
+/Assembly-CSharp.csproj
+/Assembly-CSharp-Editor.csproj
+/obi fluid.sln
+/obi fluid.Editor.csproj
+/obi fluid.csproj
+/built
+/Assets/Mirza Beig
+
+/Assets/SineVFX
+
+/Assets/Obi
+
+/Assets/RealSenseSDK2.0
+
+/obj
+/Packages
+/Assets/HullDelaunayVoronoi
+
+*.meta
+*.sln
